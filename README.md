@@ -10,7 +10,7 @@ infrastructure on AWS and Kubernetes.
 | Project | What it is |
 |---|---|
 | [ckne-practice-lab](https://github.com/Stivenavila/ckne-practice-lab) | Study kit and 19 real labs for the CKNE Kubernetes networking exam |
-| [Kubernetes-Kp](https://github.com/Stivenavila/Kubernetes-Kp) | EKS + Karpenter with reusable Terraform modules |
+| [eks-karpenter-terraform](https://github.com/Stivenavila/eks-karpenter-terraform) | EKS + Karpenter with reusable Terraform modules |
 | [Kubernetes-Pulumi](https://github.com/Stivenavila/Kubernetes-Pulumi) | Kubernetes on AWS with Pulumi and Python |
 | [paradero](https://github.com/croma-labs/paradero) | Contributor to the open transit app for Bogotá riders |
 
