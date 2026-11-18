@@ -3,7 +3,7 @@
 Cloud & DevOps engineer based in Bogotá, Colombia. I build and automate
 infrastructure on AWS and Kubernetes.
 
-**Stack:** Kubernetes · Amazon EKS · Karpenter · Cilium · Terraform · Pulumi · Python · TypeScript
+**Stack:** Kubernetes · AWS · Karpenter · Cilium · Terraform · Pulumi · Python · TypeScript
 
 ## Featured projects
 
